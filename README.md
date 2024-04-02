@@ -6,10 +6,13 @@ En este proyecto utilice HTML, Tailwind CSS, React, Vite para su realización.Es
 
 pilar gonzalez
 
-*LinkedIn.
+*LinkedIn:
+https://www.linkedin.com/in/pilargrz/
+
 
 ##Ver ejemplo en vivo https://propinasmenu.netlify.app/
 
+
 ##Contratación:
 
-Si quieres contratarme puedes escribirme a mariadelpilargr06@gmail.com .
+Si quieres contratarme puedes escribirme a mariadelpilargr06@gmail.com
