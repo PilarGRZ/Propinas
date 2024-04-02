@@ -1,6 +1,6 @@
 # Calculadora de propinas para restaurantes: calcula tu consumo y propina
 
-En este proyecto utilice HTML, Tailwind CSS, React, Vite para su realización.Esta práctica calculadora te permite elegir tu menú, introducir el importe y la propina deseada, y te mostrará el total a pagar, incluyendo el desglose de la propina y el consumo por persona.
+En este proyecto utilice HTML, Tailwind CSS, React, Vite, TypeScript, para su realización.Esta práctica calculadora te permite elegir tu menú, introducir el importe y la propina deseada, y te mostrará el total a pagar, incluyendo el desglose de la propina y el consumo por persona.
 
 ##Autor:
 
